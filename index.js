@@ -1,3 +1,5 @@
+<button id="clearAllBtn">Clear All Tasks</button>
+
 // Creating instances of document objects
 const taskList = document.getElementById("taskList");
 const dueDateInput = document.getElementById("dueDate");
