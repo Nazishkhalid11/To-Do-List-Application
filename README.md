@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/83400697/202429157-a953dc00-f32d-4312-862a-1902a628b6ba.png)
 
 
-Join the [discord server](https://discord.gg/JdFsJPrayj) for more discussion: 
+
 
 # To-Do List Application
 
@@ -47,7 +47,6 @@ Example prompt for deketing a task :
 
  Watch our video for detailed demonstration. 
  
-https://github.com/AishaAgarwal/To-Do-List-Application/assets/107138192/832814c7-cd21-4c85-81ed-e7192c720710
 
 ## Contributing
 Feel free to contribute to this project by creating a pull request. We welcome any improvements, bug fixes, or new features.
